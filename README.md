@@ -36,4 +36,4 @@ OverloadOps Cloner
 
 ---
 
-**Disclaimer:** This tool is for educational and administrative purposes only. Do not use it to violate Discord's Terms of Service.
+**Disclaimer:** This tool is for educational and administrative purposes only. Do not use it to violate Discord's Terms of Service.The author is not responsible for any misuse or damage.
