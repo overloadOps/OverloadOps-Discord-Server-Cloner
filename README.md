@@ -31,8 +31,8 @@ OverloadOps Cloner
 
 - **Dev:** IntrovertIRL
 - **Support:** [discord.gg/xHumX8nwXa](https://discord.gg/xHumX8nwXa)
-- **YouTube:** [@overloadxp](https://youtube.com/@overloadxp)
-- **GitHub:** [overloadxp](https://github.com/overloadxp)
+- **YouTube:** [@overloadOps](https://youtube.com/@overloadOps)
+- **GitHub:** [overloadOps](https://github.com/overloadOps)
 
 ---
 
