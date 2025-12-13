@@ -6,7 +6,7 @@ A standalone Windows tool to clone Discord servers, including roles, channels, c
 
 **Here is your 1 Month Free License Key:**
 ```
-Overload Cloner V1
+Available in Discord Server
 ```
 
 ---
@@ -29,7 +29,7 @@ Overload Cloner V1
 
 ## Credits & Support
 
-- **Dev:** IntrovertIRL
+- **Dev:** OverloadOps
 - **Support:** [discord.gg/xHumX8nwXa](https://discord.gg/xHumX8nwXa)
 - **YouTube:** [@overloadOps](https://youtube.com/@overloadOps)
 - **GitHub:** [overloadOps](https://github.com/overloadOps)
